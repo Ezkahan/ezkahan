@@ -1,5 +1,7 @@
 ### Hi, i am Eziz 👋
 
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ezkahan" alt="visitor badge"/>       
-</p>
+
+
+![Ezkahan GitHub stats](https://github-readme-stats.vercel.app/api?username=ezkahan&count_private=true&theme=chartreuse-dark&show_icons=true)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ezkahan)
