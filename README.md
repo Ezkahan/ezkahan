@@ -8,10 +8,10 @@
 </p>
 
 
-![Ezkahan GitHub stats](https://github-readme-stats.vercel.app/api?username=ezkahan&count_private=true&theme=chartreuse-dark&show_icons=true)
+![Ezkahan GitHub stats](https://github-readme-stats.vercel.app/api?username=ezkahan&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ezkahan&theme=chartreuse-dark&repo=ezkahan)](https://github.com/ezkahan/ezkahan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ezkahan&theme=chartreuse-dark&repo=ezkahan&hide_border=true)](https://github.com/ezkahan/ezkahan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezkahan&theme=chartreuse-dark)](https://github.com/ezkahan/ezkahan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezkahan&theme=chartreuse-dark&hide_border=true)](https://github.com/ezkahan/ezkahan)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ezkahan)
