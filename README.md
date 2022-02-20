@@ -1,12 +1,9 @@
-### Hi, i am Eziz 👋
+<!-- ### Hi, i am Eziz 👋 -->
 
-<p align="center">
-	<a href="https://ezkahan.github.io">
-		<img alt="Ezkahan. Welcome message"
-			 src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ezkahan+GitHub+page+:)&center=true&width=550&height=55">
-	</a>
-</p>
-
+<a href="https://ezkahan.github.io">
+	<img alt="Ezkahan. Welcome message"
+		 src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ezkahan+GitHub+page+:)&color=%2334FF19&center=true&width=555&height=55">
+</a>
 
 ![Ezkahan GitHub stats](https://github-readme-stats.vercel.app/api?username=ezkahan&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true)
 
