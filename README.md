@@ -1,4 +1,4 @@
-## Hi, My name is Ezkahan I'm Software Engineer 👋
+## Hi, My name is Ezkahan I'm Frontend developer with 5 years experience 👋
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat-bold&color=%2300F723&size=32&multiline=true&width=700&height=55&lines=Welcome+to+Ezkahan+github+page)](https://ezkahan.github.io) -->
 
